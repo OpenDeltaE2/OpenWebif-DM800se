@@ -1,0 +1,12 @@
+.DS_Store
+._*
+*.py[cod]
+*.swp
+*.ipk
+/.idea
+*~
+/contrib/model_movies/folder
+.sass-cache/
+.vscode/
+*.css.map
+/doc/build/
